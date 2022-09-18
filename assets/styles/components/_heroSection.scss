@@ -1,0 +1,54 @@
+
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the HeroSection in HomePage
+// -----------------------------------------------------------------------------
+
+.hero-section{
+  height: 700px;
+  width: 100%;
+
+  background-image: url('~/assets/image/hero-section-background.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  margin-top: -110px;
+  padding-top: 270px;
+
+  .custom-container{
+
+      .call-to-action{
+
+          max-width: 460px;
+
+          h1{
+              color: white;
+              font-size: 47px;
+              margin-bottom: 20px;
+          }
+
+          .button{
+
+              width: 120px;
+              padding: 8px 20px ;
+
+              border-radius: 30px;
+              border: 1px solid $colore-primario;
+
+              font-size: 24px;
+              color: white;
+              background-color: $colore-primario;
+
+              cursor: pointer;
+
+              &:hover{
+                  text-decoration: none;
+              }
+
+          }
+
+      }
+
+  }
+
+}

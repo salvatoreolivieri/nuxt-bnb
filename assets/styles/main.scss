@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+//Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
 // 1. Configuration and helpers
 @import
   'abstracts/var',
@@ -22,7 +25,8 @@
   'layout/footer';
 
 // 5. Components
-
+@import
+  'components/heroSection';
 
 
 // 6. Page-specific styles
