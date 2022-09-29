@@ -3,16 +3,15 @@
 
     <HeroSection />
 
-    <div class="custom-container">
+    <PremiumApartmentSection />
 
-      <HomeCard
-        v-for="home in homes"
-        :key="home.objectID"
-        :home="home"
-      />
+    <SearchSection />
 
-    </div>
+    <AboutSection />
 
+    <RecentlyAddedSection />
+
+    <SuggestionSection />
 
   </div>
 </template>
@@ -24,23 +23,12 @@ import homes from '~/data/homes.json'
 export default Vue.extend({
     name: "IndexPage",
     data() {
-        return {
-            homes: homes.slice(0, 3)
-        };
+        return {};
     },
 })
 </script>
 
 <style lang="scss" scoped>
 
-
-  .apartment-container{
-    display: flex;
-  }
-
-  .premium-apartment{
-    display: flex;
-    flex-wrap: wrap
-  }
 
 </style>

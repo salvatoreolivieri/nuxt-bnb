@@ -1,7 +1,7 @@
-[  { 
+[  {
     "objectID":"a",
     "type": "CABIN",
-    "title": "Warm and Cozy Cabin in the Woods",    
+    "title": "Warm and Cozy Cabin in the Woods",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 21,
@@ -18,15 +18,15 @@
         "Dryer",
         "Bear Traps",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 139,    
-    "location": {        
-        "address": "79 Sandstone Rd",        
+    "pricePerNight": 139,
+    "location": {
+        "address": "79 Sandstone Rd",
         "city": "Vail",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 3,
     "bedrooms": 4,
     "beds": 3,
@@ -39,13 +39,15 @@
         "https://images.unsplash.com/photo-1585803114088-cd027272106a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
     ],
     "_geoloc": {
-        "lat": 39.640281544731735, 
+        "lat": 39.640281544731735,
         "lng": -106.37481240062571
       }
-},{ 
+},
+
+{
     "objectID":"b",
     "type": "CABIN",
-    "title": "Rustic Piney Lodge Nestled in the Foothills",    
+    "title": "Rustic Piney Lodge Nestled in the Foothills",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 56,
@@ -59,15 +61,15 @@
         "Free Parking",
         "Washer",
         "Dryer",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 219,    
-    "location": {        
-        "address": "521 E Lionshead Circle",        
+    "pricePerNight": 219,
+    "location": {
+        "address": "521 E Lionshead Circle",
         "city": "Vail",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 4,
     "bedrooms": 2,
     "beds": 4,
@@ -80,14 +82,15 @@
         "https://images.unsplash.com/photo-1542718610-a1d656d1884c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
     ],
     "_geoloc": {
-        "lat": 39.64503095654782, 
+        "lat": 39.64503095654782,
         "lng": -106.37264816980996
       }
 },
-{ 
+
+{
     "objectID":"c",
     "type": "CABIN",
-    "title": "Serene Cottage With Eagle Eye Views",    
+    "title": "Serene Cottage With Eagle Eye Views",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 186,
@@ -102,15 +105,15 @@
         "Washer",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 189,    
-    "location": {        
-        "address": "12 Vail Rd",        
+    "pricePerNight": 189,
+    "location": {
+        "address": "12 Vail Rd",
         "city": "Vail",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 2,
     "bedrooms": 1,
     "beds": 1,
@@ -127,10 +130,10 @@
         "lng":  -106.356443
       }
 },
-{ 
+{
     "objectID":"d",
     "type": "CABIN",
-    "title": "Cute Ski Chalet With Private Lift",    
+    "title": "Cute Ski Chalet With Private Lift",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 213,
@@ -146,15 +149,15 @@
         "Washer",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 175,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 175,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Vail",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 5,
     "bedrooms": 2,
     "beds": 4,
@@ -172,10 +175,10 @@
       }
 },
 
-{ 
+{
     "objectID":"e",
     "type": "CABIN",
-    "title": "Large Cabin With a View!",    
+    "title": "Large Cabin With a View!",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 4,
@@ -188,15 +191,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 187,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 187,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 2,
     "bedrooms": 1,
     "beds": 3,
@@ -213,10 +216,10 @@
       }
 },
 
-{ 
+{
     "objectID":"f",
     "type": "HOUSE",
-    "title": "Full House All To Yourself",    
+    "title": "Full House All To Yourself",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 86,
@@ -228,15 +231,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 246,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 246,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 6,
     "bedrooms": 3,
     "beds": 3,
@@ -254,10 +257,10 @@
       }
 },
 
-{ 
+{
     "objectID":"g",
     "type": "HOUSE",
-    "title": "Cozy Home With Wood Fireplace",    
+    "title": "Cozy Home With Wood Fireplace",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 86,
@@ -269,15 +272,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 305,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 305,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 6,
     "bedrooms": 3,
     "beds": 3,
@@ -294,10 +297,10 @@
       }
 },
 
-{ 
+{
     "objectID":"h",
     "type": "HOUSE",
-    "title": "Central Spot For Great Attractions",    
+    "title": "Central Spot For Great Attractions",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 3,
@@ -309,15 +312,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 405,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 405,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 3,
     "bedrooms": 3,
     "beds": 3,
@@ -334,10 +337,10 @@
       }
 },
 
-{ 
+{
     "objectID":"i",
     "type": "CABIN",
-    "title": "Rustic Little Cabin In The Woods",    
+    "title": "Rustic Little Cabin In The Woods",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 145,
@@ -349,15 +352,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 98,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 98,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 2,
     "bedrooms": 1,
     "beds": 1,
@@ -370,15 +373,15 @@
         "https://images.unsplash.com/photo-1585803114088-cd027272106a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
     ],
     "_geoloc": {
-        "lat":  39.61538287099163, 
+        "lat":  39.61538287099163,
         "lng": -106.52503850603765
       }
 },
 
-{ 
+{
     "objectID":"j",
     "type": "CABIN",
-    "title": "Small Shed Out Back",    
+    "title": "Small Shed Out Back",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 50,
@@ -390,15 +393,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 55,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 55,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 1,
     "bedrooms": 1,
     "beds": 1,
@@ -416,10 +419,10 @@
       }
 },
 
-{ 
+{
     "objectID":"k",
     "type": "CABIN",
-    "title": "Modern Lodge In The Mountains",    
+    "title": "Modern Lodge In The Mountains",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 4,
@@ -431,15 +434,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 321,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 321,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 5,
     "bedrooms": 4,
     "beds": 4,
@@ -457,10 +460,10 @@
       }
 },
 
-{ 
+{
     "objectID":"l",
     "type": "HOUSE",
-    "title": "Party House With Fun Neighbors",    
+    "title": "Party House With Fun Neighbors",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 86,
@@ -472,15 +475,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 262,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 262,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 8,
     "bedrooms": 4,
     "beds": 4,
@@ -497,10 +500,10 @@
       }
 },
 
-{ 
+{
     "objectID":"m",
     "type": "HOUSE",
-    "title": "Beautiful Home With a Great View!",    
+    "title": "Beautiful Home With a Great View!",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 386,
@@ -512,15 +515,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 178,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 178,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 6,
     "bedrooms": 3,
     "beds": 4,
@@ -538,10 +541,10 @@
       }
 },
 
-{ 
+{
     "objectID":"n",
     "type": "HOUSE",
-    "title": "Amazing Location - A short walk to Adventure!",    
+    "title": "Amazing Location - A short walk to Adventure!",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 283,
@@ -553,15 +556,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 323,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 323,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 4,
     "bedrooms": 3,
     "beds": 2,
@@ -572,7 +575,7 @@
         "https://images.unsplash.com/photo-1542718610-a1d656d1884c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
         "https://images.unsplash.com/photo-1514774849407-0bef2676db20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
         "https://images.unsplash.com/photo-1484301548518-d0e0a5db0fc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-        
+
     ],
     "_geoloc": {
         "lat": 39.65806835692899,
@@ -580,10 +583,10 @@
       }
 },
 
-{ 
+{
     "objectID":"o",
     "type": "HOUSE",
-    "title": "A Quiet House in the Middle of Nowhere",    
+    "title": "A Quiet House in the Middle of Nowhere",
     "description":"Need to get away?  Then this is the cabin for you!  Nestled in a large forest right inside Vail, this spacious rustic abode offers amazing views of wildlife and nature through over 20 windows.\nIt's a great place for hiking, mountain biking, and bird watching.  In the winter, warm up in front of the wood burning fireplace with some hot chocolate from the nearby market.\nIt's the perfect spot to relax.  You can shop the local markets, take a dip in the hot tub or even wrestle a bear out back.  Whatever your pleasure, you're sure to find peace and quiet in the mountains of Vail",
     "note": "In winter it gets below -40 Fahrenheit, bring a parka.  Chains on tires are highly recommended.",
     "reviewCount": 865,
@@ -595,15 +598,15 @@
         "Self Check-In",
         "Dryer",
         "TV",
-        "Kitchen"        
+        "Kitchen"
     ],
-    "pricePerNight": 124,    
-    "location": {        
-        "address": "302 Hanson Ranch Rd",        
+    "pricePerNight": 124,
+    "location": {
+        "address": "302 Hanson Ranch Rd",
         "city": "Beaver Creek",
         "state": "Colorado",
         "country": "USA"
-    },    
+    },
     "guests": 7,
     "bedrooms": 4,
     "beds": 3,

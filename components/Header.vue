@@ -1,10 +1,10 @@
 <template>
     <header class="header custom-container">
-        <a href="/">
+        <nuxt-link to="/">
             <div class="logo-container">
                 <img src="~/assets/image/airbnb.png" alt="">
             </div>
-        </a>
+        </nuxt-link>
 
         <div
           @click="showMenuLink"
@@ -27,21 +27,15 @@
 
                 <nav>
                     <ul>
-                        <li>
-                            <a v-if="isUserLogged" href="/admin">Profilo Utente</a>
-                            <a v-if="!isUserLogged" href="/register">Registrati</a>
-                        </li>
-
-                        <hr v-if="!isUserLogged">
 
                         <li>
-                            <a v-if="!isUserLogged" href="/login">Login</a>
+                            <a>Accedi con Google</a>
                         </li>
 
                         <hr>
 
                         <li>
-                            <a href="#ricerca">Trova una stanza</a>
+                            <a href="/#ricerca">Trova una stanza</a>
                         </li>
                     </ul>
                 </nav>
@@ -60,8 +54,6 @@
         data(){
             return{
                 showNavLink: false,
-                isUserLogged: false,
-                userLoggedId: '',
             }
         },
 

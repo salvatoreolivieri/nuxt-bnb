@@ -1,0 +1,208 @@
+
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the About Section in HomePage
+// -----------------------------------------------------------------------------
+
+.about-us-section {
+
+  padding: 100px 0;
+
+  .custom-container{
+
+    display: flex;
+
+    .about-text{
+
+        margin-right: 80px;
+        margin-bottom: 30px;
+
+        p{
+            margin: 20px 0;
+            font-size: 20px;
+        }
+
+        .slider{
+
+            display: flex;
+            justify-content: center;
+
+            padding: 5px;
+            border-radius: 30px;
+
+            width: 120px;
+            margin-top: 30px;
+
+            background-color: $colore-primario;
+
+            text-align: center;
+
+            cursor: pointer;
+
+            span{
+                display: block;
+
+                width: 25px;
+                color: white;
+                text-align: center;
+                margin-right: 10px;
+
+                border-radius: 50%;
+                margin-right: 5px;
+
+            }
+
+            .active{
+                background-color: #3D3D3D;
+
+            }
+        }
+    }
+
+    .img-container{
+
+        width: 690px;
+        height: 345px;
+
+
+        img{
+            width: 100%;
+            height: 100%;
+            border-radius: 20px;
+        }
+    }
+
+    .arrow-container{
+
+        position: relative;
+        width: 0px;
+
+        .next,
+        .previous{
+
+            position: relative;
+            z-index: 9999;
+
+            border: 1px solid black;
+            border-radius: 50%;
+
+            width: 30px;
+            height: 30px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            cursor: pointer;
+            background-color: white;
+            // background-color: rgba(0,0,0, 0.4);
+            // color: white;
+
+        }
+
+        .previous{
+            top: 160px;
+            right: -40px;
+        }
+
+        .next{
+            top: 160px;
+            right: 25px;
+        }
+
+        .hide{
+            display: none;
+        }
+    }
+
+
+    @media screen and (max-width: 560px) {
+
+        .about-us-section{
+            margin: 20px 0;
+        }
+
+        .about-text{
+            margin-right: 0px;
+        }
+
+
+        .img-container{
+            width: 290px;
+            height: 145px;
+        }
+
+        p{
+            font-size: 18px;
+        }
+
+        .arrow-container{
+            display: none;
+        }
+    }
+
+    @media screen and (min-width: 561px) and (max-width: 800px) {
+
+        .img-container{
+            width: 400px;
+            height: 200px;
+        }
+
+    }
+
+    @media screen and (min-width: 992px) and (max-width: 1087px) {
+
+        .img-container{
+            width: 420px;
+            height: 210px;
+        }
+
+    }
+
+    @media screen and (min-width: 1088px) and (max-width: 1198px) {
+
+        .img-container{
+            width: 500px;
+            height: 250px;
+        }
+
+    }
+
+    @media screen and (min-width: 1199px) and (max-width: 1257px) {
+
+        .img-container{
+            width: 560px;
+            height: 280px;
+        }
+
+    }
+
+    @media screen and (min-width: 1258px) and (max-width: 1440px) {
+
+        .img-container{
+            width: 590px;
+            height: 295px;
+        }
+
+    }
+    @media screen and (min-width: 1407px) and (max-width: 1679px) {
+
+        .img-container{
+            width: 670px;
+            height: 335px;
+        }
+
+    }
+    @media screen and (min-width: 1680px) {
+
+        .img-container{
+            width: 815px;
+            height: 405px;
+        }
+
+    }
+
+
+  }
+
+}
+
